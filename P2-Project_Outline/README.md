@@ -7,11 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This App is going to be averything I could think of sports related. 
+It's going to have Leagues and Teams with players and teams info.
+There going to be a bracket with a playoff picture.
+Calculator for fantasy points calculation for different sports.
+Sports Blog. 
+Twitter and Instargam feeds.
 ### Features
-Include Features here
-### Technologies
-Include Technologies here
+I want to implement a mega menu so all the leagues and sports will be outlined.
 
+### Technologies
+HTML, CSS, SQL, C#
 ### What I'll Have to Learn
-Include what you will need to learn here
+API, jquery
