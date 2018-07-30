@@ -9,11 +9,11 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 * First I will create shared Layout with megamenu.
-![Image One](/images/project_outline_menu.png)
+![Image One](https://github.com/Dreammaster13/liftoff-assignments/blob/master/P3-Project_Planning/images/project_outline_menu.png)
 * One of the pages will have a fantasy sports calculator.
-![Image Two](/images/project_outline_calculator.png)
+![Image Two](https://github.com/Dreammaster13/liftoff-assignments/blob/master/P3-Project_Planning/images/project_outline_calculator.png)
 * Also I will try to implement a playoff type bracket for different sports.
-![Image Three](/images/project_outline_bracket.png)
+![Image Three](https://github.com/Dreammaster13/liftoff-assignments/blob/master/P3-Project_Planning/images/project_outline_bracket.png)
 
 ### Project Tracker
 
